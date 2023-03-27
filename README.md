@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saptak-Bose👍🏽
+- 👋 Hi, I’m @Cleversap👍🏽
 - 👀 I’m interested in making clones of apps👍🏽👍🏽👍🏽
 - 🌱 I’m currently learning REACT👍🏽👍🏽👍🏽
 - 💞️ I’m looking to collaborate on REACT NATIVE👍🏽👍🏽👍🏽👍🏽
